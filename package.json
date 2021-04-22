@@ -1,6 +1,6 @@
 {
   "name": "photo-port",
-  "homepage": "http://noplur.github.io/react-photo-portfolio/",
+  "homepage": "http://noplur.github.io/photo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
